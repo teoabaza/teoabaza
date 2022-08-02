@@ -2,9 +2,9 @@
 
 👩🏼 Hi, my name is Teodora, but friends call me **Teo**.
 
-📚 I’m currently studying <i>Full Stack Development</i> at [#Codecademy](https://www.codecademy.com/)
+📚 I’m currently working as a <i>Software Developer Apprentice</i> at [#Oasis Studio](https://https://oasisstudio.uk//)
 
-💻 My favourite programming language is `C++`
+💻 Something I find fascinating is THREE js
 
 📫 You can reach me at: [teoabaza@yahoo.com](mailto:teoabaza@yahoo.com)
 
