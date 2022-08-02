@@ -2,7 +2,7 @@
 
 👩🏼 Hi, my name is Teodora, but friends call me **Teo**.
 
-📚 I’m currently working as a <i>Software Developer Apprentice</i> at [#Oasis Studio](https://https://oasisstudio.uk//)
+📚 I’m currently working as a <i>Software Developer Apprentice</i> at [#Oasis Studio](https://oasisstudio.uk//)
 
 💻 Something I find fascinating is THREE js
 
