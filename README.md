@@ -4,7 +4,7 @@ Hey 👋 I'm **Teo**.
 
 👩🏼 You can find out more about me at: [teoabaza.com](https://teoabaza.com//)
 
-[![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoabaza)](https://github.com/teoabaza/github-readme-stats)
+![Teo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teoabaza&layout=compact&theme=radical)
 
 <!---
 teoabaza/teoabaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
