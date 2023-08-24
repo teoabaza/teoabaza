@@ -1,12 +1,10 @@
-👩🏼 Hi, my name is Teodora, but friends call me **Teo**.
+Hey 👋 I'm **Teo**.
 
-📚 I’m currently working as a <i>Junior Software Developer</i> at [Oasis Studio](https://oasisstudio.uk//)
+💻 I work as a <i>Junior Software Developer</i> at [Oasis Studio](https://oasisstudio.uk//)
 
-💻 Something I find fascinating is THREE js
+👩🏼 You can find out more about me at: [teoabaza.com](https://teoabaza.com//)
 
-📫 You can find out more about me at: [teoabaza.com](https://teoabaza.com//)
-
-🌎 Fun fact about me: I'm a polyglot.
+[![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoabaza)](https://github.com/teoabaza/github-readme-stats)
 
 <!---
 teoabaza/teoabaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
