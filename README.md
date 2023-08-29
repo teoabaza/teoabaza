@@ -2,7 +2,7 @@
 
 <p>💻 I work as a <i>Junior Software Developer</i> at <a href="https://oasisstudio.uk//">Oasis Studio</a>.</p>
 
-<p>👩🏼 You can find out more about me at <a href="https://teoabaza.com//">teoabaza.com</a></p>
+<p>👩🏼 You can find out more about me at <a href="https://teoabaza.com/"> teoabaza.com</a></p>
 
      
 <p>
