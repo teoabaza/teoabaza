@@ -1,6 +1,6 @@
 <h1>Hey 👋 I'm <strong>Teo</strong>.</h1>
 
-<p>💻 I work as a <i>ServiceNow Software Developer</i> at <a href="https://flow-motion.io//">FlowMotion</a>.</p>
+<p>💻 I work as a <i>ServiceNow Software Developer</i> at <a href="https://flow-motion.io/">FlowMotion</a>.</p>
 
 <p>👩🏼 You can find out more about me at <a href="https://teoabaza.com/"> teoabaza.com</a></p>
 
