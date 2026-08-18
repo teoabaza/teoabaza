@@ -1,13 +1,33 @@
-<h1>Hey 👋 I'm <strong>Teo</strong>.</h1>
+### Hey, I'm Teo 👋
 
-<p>💻 I work as a <i>ServiceNow/Software Developer</i> at <a href="https://flow-motion.io/">FlowMotion</a>.</p>
+I'm a full-stack developer based in the UK (currently working remotely while traveling through Asia)
 
-<p>👩🏼 You can find out more about me at <a href="https://teoabaza.com/"> teoabaza.com</a></p>
+- 💻 I work across the stack: frontend, backend, and everything in between
+- 🎨 I love working at the intersection of development and design
+- 🛠️ I've built and maintained custom apps end-to-end, from client platforms to internal tools
+- ☁️ I've also worked as a ServiceNow developer and can build bespoke apps on the ServiceNow platform
+- 🧭 I'm interested in automation, UI/UX design, and making messy workflows simple
+- 🌏 Fun fact about me: I speak 5 languages (not all fluently though)
 
-     
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teoabaza&layout=compact&theme=onedark" alt="Teo's Top Languages">
-</p>
+### Connect with me
+
+[![Website](https://img.shields.io/badge/Website-teoabaza.com-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://teoabaza.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+
+### Stack
+
+**Frontend:** Vue.js, Angular, JavaScript/TypeScript, HTML, CSS
+**Backend:** Laravel, Node.js
+**Enterprise platforms:** ServiceNow
+**Design:** Figma, Adobe Suite
+**Infrastructure:** Coolify, Nixpacks, Docker
+
+### GitHub Stats
+
+![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoabaza&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teoabaza&layout=compact&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teoabaza&hide_border=true)
+
 <!---
 teoabaza/teoabaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
