@@ -17,24 +17,25 @@ I'm a full-stack developer based in the UK (currently working remotely while tra
 
 ### Stack
 
-**Frontend:**
-Vue.js, Angular, JavaScript/TypeScript, HTML, CSS
-**Backend:**
-Laravel, Node.js
-**Platforms:**
-ServiceNow
-**Design:**
-Figma, Adobe Suite
-**Infrastructure:**
-Coolify, Docker
+- **Frontend:** Vue.js, Angular, JavaScript/TypeScript, HTML, CSS
+- **Backend:** Laravel, Node.js
+- **Platforms:** ServiceNow
+- **Design:** Figma, Adobe Suite
+- **Infrastructure:** Coolify, Docker
 
 ### GitHub Stats
 
-![Teo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=teoabaza&show_icons=true&theme=default&hide_border=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teoabaza&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teoabaza&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teoabaza&layout=compact&theme=default&hide_border=true">
+</picture>
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teoabaza&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=teoabaza&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=teoabaza&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=teoabaza&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=teoabaza&theme=default&hide_border=true">
+</picture>
 
 <!---
 teoabaza/teoabaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
