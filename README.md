@@ -19,24 +19,22 @@ I'm a full-stack developer based in the UK (currently working remotely while tra
 
 **Frontend:**
 Vue.js, Angular, JavaScript/TypeScript, HTML, CSS
-
 **Backend:**
 Laravel, Node.js
-
-**Platform:**
-ServiceNow (UI Builder, custom apps, integrations)
-
+**Platforms:**
+ServiceNow
 **Design:**
-Figma
-
+Figma, Adobe Suite
 **Infrastructure:**
-Self-hosted VPS, Coolify, Nixpacks, Docker
+Coolify, Docker
 
 ### GitHub Stats
 
-![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoabaza&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Teo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=teoabaza&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teoabaza&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=teoabaza&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=teoabaza&hide_border=true)
 
 <!---
 teoabaza/teoabaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
