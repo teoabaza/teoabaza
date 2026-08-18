@@ -11,22 +11,32 @@ I'm a full-stack developer based in the UK (currently working remotely while tra
 
 ### Connect with me
 
-[![Website](https://img.shields.io/badge/Website-teoabaza.com-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://teoabaza.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![teoabaza.com](https://img.shields.io/badge/teoabaza.com-000000?style=for-the-badge&logo=todoist&logoColor=white)](https://teoabaza.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teodoraabaza)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/teoabaza)
 
 ### Stack
 
-**Frontend:** Vue.js, Angular, JavaScript/TypeScript, HTML, CSS
-**Backend:** Laravel, Node.js
-**Enterprise platforms:** ServiceNow
-**Design:** Figma, Adobe Suite
-**Infrastructure:** Coolify, Nixpacks, Docker
+**Frontend:**
+Vue.js, Angular, JavaScript/TypeScript, HTML, CSS
+
+**Backend:**
+Laravel, Node.js
+
+**Platform:**
+ServiceNow (UI Builder, custom apps, integrations)
+
+**Design:**
+Figma
+
+**Infrastructure:**
+Self-hosted VPS, Coolify, Nixpacks, Docker
 
 ### GitHub Stats
 
-![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoabaza&show_icons=true&theme=default&hide_border=true)
+![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=teoabaza&show_icons=true&theme=default&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teoabaza&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teoabaza&hide_border=true)
 
 <!---
 teoabaza/teoabaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
